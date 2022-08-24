@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Movie-App-React-JS-/static/css/main.d183b4a6.css",
-    "main.js": "/Movie-App-React-JS-/static/js/main.935f4c65.js",
+    "main.js": "/Movie-App-React-JS-/static/js/main.8ca2bd58.js",
     "static/media/netflix.gif": "/Movie-App-React-JS-/static/media/netflix.605d08b278cc363f0623.gif",
     "index.html": "/Movie-App-React-JS-/index.html",
     "main.d183b4a6.css.map": "/Movie-App-React-JS-/static/css/main.d183b4a6.css.map",
-    "main.935f4c65.js.map": "/Movie-App-React-JS-/static/js/main.935f4c65.js.map"
+    "main.8ca2bd58.js.map": "/Movie-App-React-JS-/static/js/main.8ca2bd58.js.map"
   },
   "entrypoints": [
     "static/css/main.d183b4a6.css",
-    "static/js/main.935f4c65.js"
+    "static/js/main.8ca2bd58.js"
   ]
 }
