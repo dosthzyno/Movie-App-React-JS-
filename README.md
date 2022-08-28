@@ -3,6 +3,7 @@
 <br />
 
 ## First Trial of React JS
+- First time using React to create a website
 - Created a web serving movie information
 <br />
 
